@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\bin\Debug\SQlMIbProj.dacpac
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\bin\Debug\SQlMIbProj.dll
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\bin\Debug\SQlMIbProj.pdb
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\SQlMIbProj.sqlprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\Model.xml
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\refactor.xml
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\postdeploy.sql
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\predeploy.sql
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\SQlMIbProj.dll
+C:\Users\Lenovo\source\repos\SQLMiDbPro\SQlMIbProj\SQLMiDBDemoProj\SQlMIbProj\obj\Debug\SQlMIbProj.pdb
